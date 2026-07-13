@@ -1,0 +1,6 @@
+{
+  "name": "حلمونة الثقة",
+  "description": "منصة إلكترونية متكاملة لبيع وتصفح الأجهزة الإلكترونية بالجنيه المصري، وتحديد موقع التوصيل الجغرافي داخل جمهورية مصر العربية.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
